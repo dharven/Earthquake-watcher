@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Earth Quake Watcher "</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api">AIzaSyC00ncTYWed1C8gFlJPnlPHKmOH1-GrFRc</string>
+</resources>
